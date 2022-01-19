@@ -1,4 +1,4 @@
-# Shex-yusuf-App
+# Shex-Yusuf-App
 
 ## Project setup
 ```
